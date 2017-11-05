@@ -1,0 +1,53 @@
+.full-width-wallpaper{
+	background: url(../images/footer_lodyas.png);
+}
+.white-bar {
+	height: 65px;
+}
+.sizer {
+	max-width: 980px;
+	margin: auto;
+}
+
+.white-panel {
+	background: white;
+	margin-top: 40px;
+	padding: 20px
+}
+
+.place-holder, .portfolio-image {
+	max-width: 100%;
+	margin-bottom: 40px
+}
+
+.linkedin, .github, .stackoverflow {
+	height: auto;
+	width: 56px;
+}
+
+.aside {
+	text-align: center;
+}
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	text-align: center;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	width:236px;
+	height:66px;
+	margin: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: absolute;
+}
+nav {
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	width: 236px;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	position: absolute;
+	right: 10px;
+
+}
+
